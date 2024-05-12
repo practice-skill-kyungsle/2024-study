@@ -1,7 +1,10 @@
 # 2024-study
 
-| ⭐react dom server 공부| 무한 슬라이드 구현    | 번개장터 코딩테스트 공부   | 
-|--------------|--------------|--------------|
-|| ![ezgif com-video-to-gif-converter](https://github.com/keinn51/practice_skill/assets/79993356/f14bed25-1bff-4843-ac89-055b2f5c8dbf) |    ![image](https://github.com/keinn51/practice_skill/assets/79993356/c2d8f935-4a57-4751-9b10-a2c50cf27db1)|
-|#react #ssr #react-server #express|#react|#react|
-| React DOM Server라는 것에 대해서 부끄럽게도 전혀 모르고 있었다. React와 express를 이용해서 SSR을 구성해보고, NextJS가 과연 어떻게 생겨먹은 애일까 생각해본다. |  Qshop 제품에 무한슬라이드를 구현해야 해서 연구   | 라이브러리 사용 이유, 폴더 구조, 데이터 불러오기, 코드 주석 등에 대해서 사전 준비. 사용한 라이브러리를 왜 사용했는지 충분히 고민해보기.  |
+**⭐ React DOM Server 공부**
+- React DOM Server와 SSR에 대해 공부하고, React와 express를 이용하여 SSR을 구성해보았습니다. 또한, NextJS가 어떻게 생겨먹은 애인지에 대해 생각해보았습니다.
+
+**무한 슬라이드 구현**
+- Qshop 제품에 무한 슬라이드를 구현해야 해서 해당 기능에 대한 연구를 진행 중이며, 라이브러리 사용 이유, 폴더 구조, 데이터 불러오기, 코드 주석 등에 대해 사전 준비 중입니다. 또한, 사용한 라이브러리를 왜 사용했는지 충분히 고민 중입니다.
+
+**번개장터 코딩테스트 공부**
+- 번개장터 코딩테스트를 준비 중이며, React에 대한 공부를 진행 중입니다.

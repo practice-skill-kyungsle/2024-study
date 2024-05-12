@@ -1,0 +1,9 @@
+[submodule "2401-practice-carousel"]
+	path = 2401-practice-carousel
+	url = https://github.com/practice-skill-kyungsle/practice-carousel.git
+[submodule "2404-study-bungae-coding-test"]
+	path = 2404-study-bungae-coding-test
+	url = https://github.com/practice-skill-kyungsle/study-bungae-coding-test.git
+[submodule "2405-practice-react-dom-server"]
+	path = 2405-practice-react-dom-server
+	url = https://github.com/practice-skill-kyungsle/practice-react-dom-server.git

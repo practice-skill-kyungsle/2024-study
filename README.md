@@ -8,3 +8,7 @@
 
 **번개장터 코딩테스트 공부**
 - 번개장터 코딩테스트를 준비 중이며, React에 대한 공부를 진행 중입니다.
+
+**threejs 강의 수강**
+- threejs를 통한 웹 3D 환경 개발에 관심이 생겨 이 것에 대한 강의를 수강합니다.
+- https://www.youtube.com/watch?v=ZGACJosABBw&list=PLe6NQuuFBu7HqxY10b6gNu6iisT2-rZv-&index=1

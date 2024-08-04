@@ -7,6 +7,3 @@
 [submodule "2405-practice-react-dom-server"]
 	path = 2405-practice-react-dom-server
 	url = https://github.com/practice-skill-kyungsle/practice-react-dom-server.git
-[submodule "2405-take-threejs-class-GIS"]
-	path = 2405-take-threejs-class-GIS
-	url = https://github.com/practice-skill-kyungsle/take-threejs-class-GIS.git

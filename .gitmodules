@@ -7,3 +7,9 @@
 [submodule "2405-practice-react-dom-server"]
 	path = 2405-practice-react-dom-server
 	url = https://github.com/practice-skill-kyungsle/practice-react-dom-server.git
+[submodule "2408-make-multiple-param-func"]
+	path = 2408-make-multiple-param-func
+	url = https://github.com/practice-skill-kyungsle/2024-make-multiple-params-func.git
+[submodule "2409-html-editor"]
+	path = 2409-html-editor
+	url = https://github.com/practice-skill-kyungsle/html-editor.git
